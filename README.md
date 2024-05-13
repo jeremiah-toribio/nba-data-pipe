@@ -51,7 +51,9 @@ Docker, Python, Cron, JSON, Dataframes, Pandas, Extract Transform Load, Tensorfl
 |  |  |
 
 ### game (table)
+---
 | Feature | Definition |
+| ---     | ---        |
 | gameid | a unique identifier |
 | team1 |  |
 | team2 |  |
